@@ -6,5 +6,5 @@ Hi, I'm a teacher, and this last time I'm developing a website for my school, **
 
 In the following image we can see the school where I work.
 
-![Liceo Nibaldo Sepúlveda Fernández](images/liceo.webp/800/600)
+![Liceo Nibaldo Sepúlveda Fernández](images/liceo.webp)
 
